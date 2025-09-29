@@ -1,0 +1,3 @@
+[submodule "Kolmogorov_Chentsov"]
+	path = Kolmogorov_Chentsov
+	url = git@github.com:cplaursen/Kolmogorov_Chentsov
