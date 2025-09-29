@@ -1,3 +1,6 @@
 [submodule "Kolmogorov_Chentsov"]
 	path = Kolmogorov_Chentsov
 	url = git@github.com:cplaursen/Kolmogorov_Chentsov
+[submodule "SHS-sim"]
+	path = SHS-sim
+	url = git@github.com:cplaursen/SHS-sim
