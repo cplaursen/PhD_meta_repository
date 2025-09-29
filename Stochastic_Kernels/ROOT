@@ -1,0 +1,14 @@
+  session Kernels = "Standard_Borel_Spaces" +
+    options [
+       document = "pdf",
+       document_output = "generated",
+       document_build = "build",
+       quick_and_dirty]
+    sessions
+      "Kolmogorov_Chentsov"
+      "List-Index"
+    theories
+      Kernel_Composition
+      Brownian_Motion
+    document_files
+      build

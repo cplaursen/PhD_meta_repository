@@ -4,3 +4,6 @@
 [submodule "SHS-sim"]
 	path = SHS-sim
 	url = git@github.com:cplaursen/SHS-sim
+[submodule "Optics"]
+	path = Optics
+	url = git@github.com:cplaursen/Optics
