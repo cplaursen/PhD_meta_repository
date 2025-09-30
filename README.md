@@ -11,8 +11,9 @@ To inspect and run the various Isabelle theories, download [Isabelle2025](isabel
 isabelle jedit -d . -l <Base Theory>
 ```
 replacing <Base Session> with the corresponding base session for the desired development, as listed below:
+- CAS-Integration: Hybrid-Library
+- IsaVODEs_Uncertainty: Hybrid-Verification
 - Optics: HOL-Library
 - Kolmogorov_Chentsov: HOL-Probability
 - Stochastic_Kernels: Standard_Borel_Spaces
 - SdL: Shallow_Expressions_Prob
-- IsaVODEs_Uncertainty: Hybrid-Verification

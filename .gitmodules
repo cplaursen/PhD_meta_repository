@@ -19,3 +19,6 @@
 [submodule "contrib/Hybrid-Library"]
 	path = contrib/Hybrid-Library
 	url = git@github.com:isabelle-utp/Hybrid-Library
+[submodule "CAS-Integration"]
+	path = CAS-Integration
+	url = git@github.com:isabelle-utp/CAS-Integration
