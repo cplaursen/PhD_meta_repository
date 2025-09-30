@@ -277,7 +277,7 @@ lemma hkernel_of_kernel [simp]:
   using assms by (transfer, auto)
 
 lift_definition kernel_measure :: "('a, 'b) kernel \<Rightarrow> 'a \<Rightarrow> 'b measure" is
-"\<lambda>(M, M', \<kappa>) \<omega>. measure_of (space M') (sets M') (\<lambda>A'. \<kappa> \<omega> A')"
+"\<lambda>(M, M', \<kappa>) \<omega>. measure_of (space M') (sets M') (\<lambda>A'. \<kappa> \<omega> A')" .
 
 lemma kernel_measure_altdef:
   "kernel_measure K \<omega> = measure_of (space (kernel_target K)) (sets (kernel_target K)) (\<lambda>A'. K \<omega> A')"
