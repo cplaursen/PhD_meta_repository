@@ -7,3 +7,15 @@
 [submodule "Optics"]
 	path = Optics
 	url = git@github.com:cplaursen/Optics
+[submodule "contrib/Shallow-Expressions"]
+	path = contrib/Shallow-Expressions
+	url = git@github.com:isabelle-utp/Shallow-Expressions
+[submodule "contrib/Z_Toolkit"]
+	path = contrib/Z_Toolkit
+	url = git@github.com:isabelle-utp/Z_Toolkit
+[submodule "contrib/Hybrid-Verification"]
+	path = contrib/Hybrid-Verification
+	url = git@github.com:isabelle-utp/Hybrid-Verification
+[submodule "contrib/Hybrid-Library"]
+	path = contrib/Hybrid-Library
+	url = git@github.com:isabelle-utp/Hybrid-Library

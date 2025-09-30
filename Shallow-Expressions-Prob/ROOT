@@ -1,0 +1,5 @@
+session "Shallow_Expressions_Prob" = "Shallow_Expressions_Z" +
+  options [document = false]
+  sessions
+   "HOL-Probability"
+  theories Shallow_Expressions_Prob

@@ -6,13 +6,13 @@ In addition, as part of the thesis I have only contributed the material regardin
 - Optics/Scene_Spaces.thy
 - Optics/Frames.thy
 
-To inspect and run the various Isabelle theories, download [Isabelle](isabelle.in.tum.de), and launch Isabelle/jEdit from this directory with command
+To inspect and run the various Isabelle theories, download [Isabelle2025](isabelle.in.tum.de), and launch Isabelle/jEdit from this directory with command
 ```
 isabelle jedit -d . -l <Base Theory>
 ```
 replacing <Base Session> with the corresponding base session for the desired development, as listed below:
 - Optics: HOL-Library
 - Kolmogorov_Chentsov: HOL-Probability
-- Brownian_Motion: Kolmogorov_Chentsov
+- Stochastic_Kernels: Standard_Borel_Spaces
 - SdL: Shallow_Expressions_Prob
 - IsaVODEs_Uncertainty: Hybrid-Verification
